@@ -1,0 +1,33 @@
+_repo: Vanhoja-muistoja_69518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sillanpää, Frans Eemil
+    aliases:
+    - Sillanpaa, Frans Eemil
+    - Sillanpää, F. E. (Frans Eemil)
+    - Sillanpää, Frans Emil
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '43826'
+    url: http://www.gutenberg.org/2009/agents/43826
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4
+    - https://fi.wikipedia.org/wiki/Frans_Emil_Sillanp%C3%A4%C3%A4
+description: ''
+gutenberg_issued: '2022-12-10'
+identifiers:
+  gutenberg: '69518'
+language: fi
+pgterms:marc905: 20221202114354sillanp
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: 'Finland: Weilin & Göös,1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vanhoja muistoja
+url: http://www.gutenberg.org/ebooks/69518
